@@ -26,3 +26,9 @@ NEXT UPDATE :
     <li class="list-group-item"><code>Minecraft</code></li>
     <li class="list-group-item"><code>Gensin</code></li>
   </ul>
+
+RUN WITH PHP CLI IN TERMUX
+
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item"><code>php run.php</code></li>
+  </ul>
