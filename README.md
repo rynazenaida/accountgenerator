@@ -1,5 +1,6 @@
-# accountgenerator
-api premium account genertor
+# Account Generator
+
+# api premium account genertor
 
   <div class="card-header" style="">Or you can call the API using</div>
   <ul class="list-group list-group-flush">
